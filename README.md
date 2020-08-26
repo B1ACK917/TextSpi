@@ -5,6 +5,9 @@
 
 顺便现在的笔趣阁限制单个ip的短时间内访问量了，所以引入了代理池和多线程，不过启用代理池需要安装Redis，Redis的安装包放在/utils里面了
 
+## 安装依赖
+`pip install -r requirements.txt`
+
 ## 使用方法-EPUB多线程+代理池版
 1.下载源码到本地以后，先安装Redis
 
