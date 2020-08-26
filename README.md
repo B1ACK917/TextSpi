@@ -71,6 +71,9 @@ txt版保存在output/txt
 
 epub版保存在output/epub
 
+# 鸣谢
+代理池引用自
+[https://github.com/jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)
 
 
 
